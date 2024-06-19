@@ -1,8 +1,14 @@
 {
   "Name": "Home ",
   "Alias": "home",
+  "File": "umb://template-file/home.cshtml",
   "Udi": "umb://template/9156deca166a459995ee1d90dddbaa51",
-  "Dependencies": [],
+  "Dependencies": [
+    {
+      "Udi": "umb://template-file/home.cshtml",
+      "Ordering": true
+    }
+  ],
   "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.TemplateArtifact",
   "__version": "14.0.1"
 }
