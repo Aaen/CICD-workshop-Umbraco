@@ -415,5 +415,5 @@ healthchecksdb
 **/Views/Partials/Forms/Themes/bootstrap3-horizontal/
 **/Views/Partials/Forms/Themes/default/
 
-# CI CD Config 
+
 **/git-patch.diff
