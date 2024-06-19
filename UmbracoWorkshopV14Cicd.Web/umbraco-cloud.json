@@ -6,6 +6,12 @@
       "Id": "03d2b6c1-6c00-496e-a48b-9eb82a1dc7d9",
       "Workspaces": [
         {
+          "Id": "259ead9f-3b64-422e-acf2-b68e968dddfa",
+          "Name": "Development",
+          "Type": "development",
+          "Url": "https://dev-umbraco-workshop-v14-cicd.euwest01.umbraco.io"
+        },
+        {
           "Id": "f9125a6e-4622-4ebc-87ba-f35e0d6a527d",
           "Name": "Live",
           "Type": "live",
